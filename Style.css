@@ -1,0 +1,12 @@
+
+body {
+    background-color: antiquewhite;
+}
+a{font-size: 50;}
+        body a {
+            text-decoration: none;
+            color: rgb(187, 112, 20);
+        }
+p{color:rgb(117, 30, 30);}
+p{font-size: 70;}
+p{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
