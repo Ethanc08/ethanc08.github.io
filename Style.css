@@ -1,0 +1,32 @@
+a:hover{
+    color: rgb(218, 151, 64);
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+a {
+    font-size: 50;
+}
+
+body a {
+    text-decoration: none;
+    color: rgb(187, 112, 20);
+}
+
+p {
+    color:rgb(117, 30, 30);
+    font-size: 70;
+    font-family: Impact, sans-serif;
+}
+
+
+
+ul a:hover{
+    color: rgb(148, 55, 235);
+} 
+ul a {
+    color: rgb(204, 140, 230);
+    font-size: 30;
+}
